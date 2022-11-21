@@ -20,26 +20,26 @@
 
 # 🏠 〢 Home
 
-- [👀・Features](https://github.com/x07ex/amaterasu/)
-- [🔨・Build](https://github.com/x07ex/amaterasu/)
-- [📝・Changelog](https://github.com/x07ex/amaterasu/)
+- [👀・Features](https://github.com/x07ex/amaterasu#features)
+- [🔨・Build](https://github.com/x07ex/amaterasu#build)
+- [📝・Changelog](https://github.com/x07ex/amaterasu/#changelog)
 - [⚠️・Issues](https://github.com/x07ex/amaterasu/issues)
-- [🙏・Credits](https://github.com/x07ex/amaterasu/)
+- [🙏・Credits](https://github.com/x07ex/amaterasu/#credits--inspiration)
 
 # Features
 
 - Discord
-  > Nitro
-  > Badges
-  > Billing
-  > Token
-  > Gift codes
+  > Nitro<br>
+  > Badges<br>
+  > Billing<br>
+  > Token<br>
+  > Gift codes<br>
 - System Info:
-  > User
-  > System
-  > Disk
-  > Network
-  > WIFI
+  > User<br>
+  > System<br>
+  > Disk<br>
+  > Network<br>
+  > WIFI<br>
 - ...
 
 ---
@@ -55,7 +55,7 @@ cd amaterasu && pip install -r requirements.txt
 
 # Changelog:
 
-```
+```diff
 + Added functions (discord and systeminfo)
 ```
 
