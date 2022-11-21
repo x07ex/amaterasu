@@ -1,0 +1,9 @@
+pycryptodome
+requests
+pywin32
+discord
+
+tinyaes
+wheel
+pyinstaller
+InquirerPy
